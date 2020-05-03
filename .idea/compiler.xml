@@ -9,5 +9,8 @@
         <module name="docker-and-k8s" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test2" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

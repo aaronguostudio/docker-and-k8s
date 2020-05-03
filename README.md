@@ -31,5 +31,6 @@
 ## Install thrift
 
 - 遇到了一些问题，之后解决
+- 跳过 python 部分，直接开始用户服务
 
-- https://coding.imooc.com/lesson/198.html#mid=12509
+- https://coding.imooc.com/lesson/198.html#mid=12510
